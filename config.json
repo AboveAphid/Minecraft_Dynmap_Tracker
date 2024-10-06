@@ -1,0 +1,7 @@
+{
+    "minecraft_server_address": "play.example.us",
+    "dynmap_website": "https://map.example.us/",
+    "max_number_of_threads": 20,
+    "database_exe_name": "databaseUpdator.exe",
+    "exit_keybind": "ctrl+space"
+}
